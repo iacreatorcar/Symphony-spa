@@ -1,6 +1,6 @@
 # Symphony Luxury Spa - Cruise Ship Wellness Experience
 
-![Symphony Luxury Spa](https://iacreatorcar.github.io/Symphony-spa/assets/images/hero-spa.jpg)
+<img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo-spa.png" alt="Symphony Spa Logo" width="60" align="right">
 
 A premium, fully responsive Single Page Application (SPA) designed for luxury cruise ship wellness centers.  
 This project embodies my evolution from **Digital & Multimedia Cruise Operations Manager** to **Hospitality Technology Developer** — showcasing how real onboard experience and technical leadership can craft advanced digital products for the cruise industry.
@@ -250,3 +250,4 @@ With a background as a digital project leader and operations manager across seve
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+<img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo-spa.png" alt="Symphony Spa Logo" width="60" align="right">
