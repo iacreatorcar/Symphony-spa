@@ -250,4 +250,3 @@ With a background as a digital project leader and operations manager across seve
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-<img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo-spa.png" alt="Symphony Spa Logo" width="60" align="right">
