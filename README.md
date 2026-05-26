@@ -6,7 +6,6 @@ A premium, fully responsive Single Page Application (SPA) designed for luxury cr
 This project embodies my evolution from **Digital & Multimedia Cruise Operations Manager** to **Hospitality Technology Developer** — showcasing how real onboard experience and technical leadership can craft advanced digital products for the cruise industry.
 
 🔗 **Live Demo**: [https://iacreatorcar.github.io/Symphony-spa/](https://iacreatorcar.github.io/Symphony-spa/)  
-🔗 **Portfolio Hub**: [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
 
 ---
 
