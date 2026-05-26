@@ -178,8 +178,6 @@ This project marks the transition from a distinguished career as **Cruise Ship D
 | 💡 **Current Focus** | Web & front-end development for hospitality innovation |
 | 🎯 **Value Proposition** | Bridge between real-world cruise operations and cutting-edge digital products |
 
-**View my complete technical & managerial portfolio:**  
-🔗 [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
 
 ---
 
@@ -215,7 +213,6 @@ You may NOT:
 
 <img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo-spa.png" alt="Symphony Spa Logo" width="60" align="right">
 
-- **Portfolio**: [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
 - **GitHub**: [@iacreatorcar](https://github.com/iacreatorcar)
 - **Project Demo**: [https://iacreatorcar.github.io/Symphony-spa/](https://iacreatorcar.github.io/Symphony-spa/)
 - **LinkedIn**: [https://www.linkedin.com/in/carmine-d-alise-3b25024b/](https://www.linkedin.com/in/carmine-d-alise-3b25024b/)
