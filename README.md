@@ -6,7 +6,6 @@ A premium, fully responsive Single Page Application (SPA) designed for luxury re
 This project embodies my evolution from **Digital & Multimedia Hospitality Operations Manager** to **Hospitality Technology Developer** — showcasing how real onsite experience and technical leadership can craft advanced digital products for the hospitality industry.
 
 🔗 **Live Demo**: [https://iacreatorcar.github.io/Symphony-spa/](https://iacreatorcar.github.io/Symphony-spa/)  
-🔗 **Portfolio Hub**: [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
 
 ---
 
@@ -179,8 +178,6 @@ This project marks the transition from a distinguished career as **Hospitality D
 | 💡 **Current Focus** | Web & front-end development for hospitality innovation |
 | 🎯 **Value Proposition** | Bridge between real-world resort/hotel operations and cutting-edge digital products |
 
-**View my complete technical & managerial portfolio:**  
-🔗 [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
 
 ---
 
@@ -216,7 +213,6 @@ You may NOT:
 
 <img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo.png" alt="Symphony Spa Logo" width="60" align="right">
 
-- **Portfolio**: [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
 - **GitHub**: [@iacreatorcar](https://github.com/iacreatorcar)
 - **Project Demo**: [https://iacreatorcar.github.io/Symphony-spa/](https://iacreatorcar.github.io/Symphony-spa/)
 - **LinkedIn**: [https://www.linkedin.com/in/carmine-d-alise-3b25024b/](https://www.linkedin.com/in/carmine-d-alise-3b25024b/)
