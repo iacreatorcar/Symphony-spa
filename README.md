@@ -1,9 +1,9 @@
-# Symphony Luxury Spa - Cruise Ship Wellness Experience
+# Symphony Luxury Spa - Resort & Hospitality Wellness Experience
 
-<img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo-spa.png" alt="Symphony Spa Logo" width="60" align="right">
+<img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo.png" alt="Symphony Spa Logo" width="60" align="right">
 
-A premium, fully responsive Single Page Application (SPA) designed for luxury cruise ship wellness centers.  
-This project embodies my evolution from **Digital & Multimedia Cruise Operations Manager** to **Hospitality Technology Developer** — showcasing how real onboard experience and technical leadership can craft advanced digital products for the cruise industry.
+A premium, fully responsive Single Page Application (SPA) designed for luxury resort and hotel wellness centers.  
+This project embodies my evolution from **Digital & Multimedia Hospitality Operations Manager** to **Hospitality Technology Developer** — showcasing how real onsite experience and technical leadership can craft advanced digital products for the hospitality industry.
 
 🔗 **Live Demo**: [https://iacreatorcar.github.io/Symphony-spa/](https://iacreatorcar.github.io/Symphony-spa/)  
 🔗 **Portfolio Hub**: [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
@@ -14,7 +14,7 @@ This project embodies my evolution from **Digital & Multimedia Cruise Operations
 
 - [About The Project](#about-the-project)
 - [Key Features](#key-features)
-- [Cruise & Hospitality Focus](#cruise--hospitality-focus)
+- [Resort & Hospitality Focus](#resort--hospitality-focus)
 - [Built With](#built-with)
 - [Project Structure](#project-structure)
 - [Installation & Setup](#installation--setup)
@@ -27,12 +27,12 @@ This project embodies my evolution from **Digital & Multimedia Cruise Operations
 
 ## 🎯 About The Project
 
-**Symphony Luxury Spa** is a digital concept of an upscale spa facility aboard a world-class cruise ship.  
-This solution is the direct result of **15+ years of experience in cruise hospitality**, spearheading digital transformation and guest experience optimization projects as **Digital & Multimedia Manager** and **Project Lead**.
+**Symphony Luxury Spa** is a digital concept of an upscale spa facility inside a world-class resort or hotel.  
+This solution is the direct result of **15+ years of experience in hospitality**, spearheading digital transformation and guest experience optimization projects as **Digital & Multimedia Manager** and **Project Lead**.
 
 The platform fuses:
 
-- 🛳️ **In-depth cruise operations expertise**
+- 🏨 **In-depth resort & hotel operations expertise**
 - ✨ **Hospitality industry luxury standards**
 - 💻 **Advanced web development skills**
 - 👥 **Proven management track record** in high-pressure, international contexts
@@ -43,15 +43,15 @@ More than a design exercise — this is a **blueprint for real-world deployments
 
 ## ✨ Key Features
 
-### 🧭 For Cruise Ship Operations
+### 🧭 For Resort & Hotel Operations
 - **24/7 Digital Reception** – Always available booking system
-- **QR Code Integration** – Scan-to-book functionality throughout the ship
-- **Cabin Number Integration** – Personalized guest recognition
-- **Deck Plan Visualization** – Clear location mapping
+- **QR Code Integration** – Scan-to-book functionality throughout the venue
+- **Room Number Integration** – Personalized guest recognition
+- **Floor Plan Visualization** – Clear location mapping
 - **Multi-service Management** – Spa, sauna, acupuncture, facial treatments
 
 ### 💆 For Guest Experience
-- **Responsive Design** – Perfect on cabin TVs, tablets, and smartphones
+- **Responsive Design** – Perfect on room TVs, tablets, and smartphones
 - **Real-time Booking** – Instant confirmation with QR code
 - **Special Offers** – Dynamic promotional packages
 - **Couples Retreats** – Romantic experiences
@@ -66,22 +66,22 @@ More than a design exercise — this is a **blueprint for real-world deployments
 
 ---
 
-## 🛳️ Cruise & Hospitality Focus
+## 🏨 Resort & Hospitality Focus
 
-Deeply rooted in **actual cruise ship operations and guest engagement**, this project delivers digital solutions designed **by a hospitality manager for hospitality managers** — addressing the challenges and ambitions typical of luxury cruise environments.
+Deeply rooted in **actual resort/hotel operations and guest engagement**, this project delivers digital solutions designed **by a hospitality manager for hospitality managers** — addressing the challenges and ambitions typical of luxury hospitality environments.
 
 | Experience (15+ Years) | Implementation |
 |------------------------|----------------|
 | **Guest Demographics** | Design choices for international, multi-generational audience |
-| **Onboard Operations** | Booking system mirroring real cruise reservation workflows |
-| **Ship Architecture** | Deck 9 spa location based on actual ship layouts |
-| **Service Timing** | Port day vs. sea day scheduling considerations |
-| **Crew Collaboration** | 24/7 reception handover simulation |
+| **Onsite Operations** | Booking system mirroring real resort reservation workflows |
+| **Property Layout** | Spa location based on actual resort/hotel floor plans |
+| **Service Timing** | Weekday vs. weekend scheduling considerations |
+| **Team Collaboration** | 24/7 reception handover simulation |
 | **Guest Psychology** | Relaxation-focused UI/UX decisions |
-| **Digital Signage** | Cabin TV integration logic |
+| **Digital Signage** | In-room TV integration logic |
 | **Revenue Management** | Promotional pricing strategies |
 
-> *"Having managed digital operations onboard, I don't just design interfaces — I design operational solutions that work at sea."*
+> *"Having managed digital operations onsite, I don't just design interfaces — I design operational solutions that work in the real world."*
 
 ---
 
@@ -115,7 +115,7 @@ Symphony-spa/
         ├── massage.jpg
         ├── sauna.jpg
         ├── treatment-room.jpg
-        └── logo-spa.png
+        └── logo.png
 ```
 
 **Everything is in one HTML file.**  
@@ -167,17 +167,17 @@ python -m http.server 8000
 
 ## 🧳 Portfolio Context
 
-This project marks the transition from a distinguished career as **Cruise Ship Digital & Multimedia Manager** to **Hospitality Technology Developer** — not "aspiring", but **actively delivering** industry-driven digital solutions.
+This project marks the transition from a distinguished career as **Hospitality Digital & Multimedia Manager** to **Hospitality Technology Developer** — not "aspiring", but **actively delivering** industry-driven digital solutions.
 
 **Profile at-a-glance:**
 
 | | |
 |---|---|
-| 🛳️ **Experience** | 15+ years digital leadership in luxury cruises |
+| 🏨 **Experience** | 15+ years digital leadership in luxury hospitality |
 | 👥 **Management** | Multicultural team & project management |
 | 🖥️ **Expertise** | Digital guest experience & content delivery for international audiences |
 | 💡 **Current Focus** | Web & front-end development for hospitality innovation |
-| 🎯 **Value Proposition** | Bridge between real-world cruise operations and cutting-edge digital products |
+| 🎯 **Value Proposition** | Bridge between real-world resort/hotel operations and cutting-edge digital products |
 
 **View my complete technical & managerial portfolio:**  
 🔗 [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
@@ -212,9 +212,9 @@ You may NOT:
 ## 👨‍💻 Author
 
 **Carmine D'Alise**  
-*Hospitality Technology Developer | Former Cruise Digital Experience Lead*
+*Hospitality Technology Developer | Former Hospitality Digital Experience Lead*
 
-<img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo-spa.png" alt="Symphony Spa Logo" width="60" align="right">
+<img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo.png" alt="Symphony Spa Logo" width="60" align="right">
 
 - **Portfolio**: [https://the-bridge-portfolio.vercel.app](https://the-bridge-portfolio.vercel.app)
 - **GitHub**: [@iacreatorcar](https://github.com/iacreatorcar)
@@ -223,20 +223,20 @@ You may NOT:
 - **Email**: [iacreatorcar@gmail.com](mailto:iacreatorcar@gmail.com)
 
 **About Me:**  
-With a background as a digital project leader and operations manager across several luxury cruise lines, I now focus on designing best-in-class digital solutions for hospitality brands. Open to consulting, full-time, or hybrid roles to bridge field operations and digital innovation.
+With a background as a digital project leader and operations manager across several luxury hospitality brands, I now focus on designing best-in-class digital solutions for hospitality brands. Open to consulting, full-time, or hybrid roles to bridge field operations and digital innovation.
 
 ---
 
 ## 🌟 Acknowledgments
 
-- **MSC Cruises, Royal Caribbean, Celebrity Cruises , Tuy thompson, Iberso Cruzeiro , Aroya cruises ** — for the invaluable onboard experience
+- **The hospitality teams and properties** I've worked with — for the invaluable onsite experience
 - **The thousands of guests** — who inspired every design decision
 - **The open-source community** — for continuous learning resources
 
 ---
 
 <div align="center">
-  <img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo-spa.png" alt="Symphony Spa Logo" width="80">
+  <img src="https://iacreatorcar.github.io/Symphony-spa/assets/images/logo.png" alt="Symphony Spa Logo" width="80">
   <p><strong>Symphony Luxury Spa</strong> — Real-world hospitality expertise, digitally reimagined.</p>
   <p>© 2024 Carmine D'Alise. All rights reserved.</p>
   <br>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
-    <title>Symphony Luxury Spa - Cruise Ship Wellness</title>
+    <title>Symphony Luxury Spa - Hospitality Wellness</title>
     
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -219,6 +219,12 @@
             display: flex;
             align-items: center;
             gap: 12px;
+        }
+
+        .logo-img {
+            height: 55px;
+            width: auto;
+            display: block;
         }
 
         .logo-icon {
@@ -1035,11 +1041,28 @@
 
         .footer-brand .logo {
             margin-bottom: 25px;
+            background: var(--white);
+            padding: 10px 16px;
+            border-radius: 10px;
+            display: inline-flex;
+            height: auto;
+            overflow: visible;
         }
 
-        .footer-brand .logo-title,
-        .footer-brand .logo-subtitle {
-            color: var(--white);
+        .footer-brand .logo-img {
+            height: 70px;
+            margin-top: 0;
+        }
+
+        .partnership-logo {
+            max-width: 280px;
+            width: 100%;
+            height: auto;
+            margin-top: 20px;
+            background: var(--white);
+            padding: 10px 14px;
+            border-radius: 10px;
+            display: block;
         }
 
         .footer-description {
@@ -1393,15 +1416,9 @@
     <nav class="navbar">
         <div class="container nav-container">
             <a href="#home" class="logo">
-                <div class="logo-icon">
-                    <i class="fas fa-spa"></i>
-                </div>
-                <div class="logo-text">
-                    <span class="logo-title">Symphony</span>
-                    <span class="logo-subtitle">Luxury Spa</span>
-                </div>
+                <img src="assets/images/logo.png" alt="Symphony Spa" class="logo-img">
             </a>
-            
+
             <button class="hamburger" id="hamburger">
                 <i class="fas fa-bars"></i>
             </button>
@@ -1425,7 +1442,7 @@
         <div class="container hero-container">
             <div class="hero-content">
                 <h1 class="hero-title">Ocean Serenity Meets Luxury Wellness</h1>
-                <p class="hero-subtitle">Experience premium spa treatments aboard the world's finest cruise ships</p>
+                <p class="hero-subtitle">Experience premium spa treatments in the world's finest hospitality venues</p>
                 <div class="hero-buttons">
                     <a href="#booking" class="btn btn-primary btn-large">Book Your Session</a>
                     <a href="#services" class="btn btn-outline btn-large">Explore Services</a>
@@ -1442,8 +1459,8 @@
                     <span>Exclusive Deals</span>
                 </div>
                 <div class="feature">
-                    <i class="fas fa-ship"></i>
-                    <span>Cruise Ship Location</span>
+                    <i class="fas fa-hotel"></i>
+                    <span>Premium Hospitality Venues</span>
                 </div>
                 <div class="feature">
                     <i class="fas fa-award"></i>
@@ -1643,7 +1660,7 @@
             <div class="section-header">
                 <span class="section-subtitle">Special Offers</span>
                 <h2 class="section-title">Exclusive Packages</h2>
-                <p class="section-description">Limited time offers for cruise guests - book now and save up to 30%</p>
+                <p class="section-description">Limited time offers for our guests - book now and save up to 30%</p>
             </div>
             
             <div class="promotions-grid">
@@ -1680,7 +1697,7 @@
                         <span class="promotion-badge">-30%</span>
                     </div>
                     <div class="promotion-body">
-                        <p class="promotion-description">A complete wellness experience with multiple treatments across your entire cruise duration.</p>
+                        <p class="promotion-description">A complete wellness experience with multiple treatments across your entire stay.</p>
                         <ul class="promotion-features">
                             <li><i class="fas fa-check-circle"></i> 3 massage sessions (60 min each)</li>
                             <li><i class="fas fa-check-circle"></i> 2 facial treatments</li>
@@ -1734,7 +1751,7 @@
             <div class="section-header">
                 <span class="section-subtitle">Reserve Your Spot</span>
                 <h2 class="section-title">Book Your Spa Experience</h2>
-                <p class="section-description">Reserve your treatment in advance to guarantee your preferred time and cabin</p>
+                <p class="section-description">Reserve your treatment in advance to guarantee your preferred time and room</p>
             </div>
             
             <div class="booking-container">
@@ -1825,7 +1842,7 @@
                             <i class="fas fa-headset"></i>
                         </div>
                         <h3 class="info-title">24/7 Reception</h3>
-                        <p class="info-text">Visit our reception desk on Deck 9, forward section. Call extension 745 from your cabin phone for immediate assistance.</p>
+                        <p class="info-text">Visit our reception desk on the 2nd Floor, Wellness Wing. Call extension 745 from your room phone for immediate assistance.</p>
                     </div>
                     
                     <div class="info-card">
@@ -1833,7 +1850,7 @@
                             <i class="fas fa-qrcode"></i>
                         </div>
                         <h3 class="info-title">QR Code Booking</h3>
-                        <p class="info-text">Scan QR codes around the ship to quickly book available spa times. Located in elevators, dining areas, and cabin TVs.</p>
+                        <p class="info-text">Scan QR codes around the venue to quickly book available spa times. Located in lobbies, dining areas, and room TVs.</p>
                     </div>
                     
                     <div class="info-card">
@@ -1849,7 +1866,7 @@
                             <i class="fas fa-gem"></i>
                         </div>
                         <h3 class="info-title">Suite Guest Benefits</h3>
-                        <p class="info-text">10% off all services for guests in suites. Priority booking and complimentary champagne service included.</p>
+                        <p class="info-text">10% off all services for guests in suites. Priority booking and complimentary welcome drink included.</p>
                     </div>
                 </div>
             </div>
@@ -1862,7 +1879,7 @@
             <div class="section-header">
                 <span class="section-subtitle">Get In Touch</span>
                 <h2 class="section-title">Contact Our Spa Team</h2>
-                <p class="section-description">We're here to enhance your cruise wellness experience</p>
+                <p class="section-description">We're here to enhance your wellness experience</p>
             </div>
             
             <div class="contact-container">
@@ -1873,7 +1890,7 @@
                         </div>
                         <div class="contact-text">
                             <h4>Location</h4>
-                            <p>Deck 9, Forward Section<br>Symphony Luxury Spa<br> Ocean Serenity</p>
+                            <p>2nd Floor, Wellness Wing<br>Symphony Luxury Spa<br> Ocean Serenity Resort</p>
                         </div>
                     </div>
                     
@@ -1883,7 +1900,7 @@
                         </div>
                         <div class="contact-text">
                             <h4>Phone</h4>
-                            <p>Cabin Extension: 745<br>Direct Line: +1 (555) 123-4772 (SPA)<br>Emergency: +1 (555) 911-4772</p>
+                            <p>Room Extension: 745<br>Direct Line: +1 (555) 123-4772 (SPA)<br>Emergency: +1 (555) 911-4772</p>
                         </div>
                     </div>
                     
@@ -1903,7 +1920,7 @@
                         </div>
                         <div class="contact-text">
                             <h4>Hours</h4>
-                            <p>Daily: 8:00 AM - 10:00 PM<br>Reception: 24/7<br>Port Days: Extended hours</p>
+                            <p>Daily: 8:00 AM - 10:00 PM<br>Reception: 24/7<br>Weekends: Extended hours</p>
                         </div>
                     </div>
                 </div>
@@ -1912,9 +1929,9 @@
                     <div class="map-placeholder">
                         <div class="map-content">
                             <div class="deck-map">
-                                <div class="deck-title">Deck 9 - Spa Location</div>
+                                <div class="deck-title">2nd Floor - Spa Location</div>
                                 <div class="deck-layout">
-                                    <div class="deck-area">Pool Deck</div>
+                                    <div class="deck-area">Pool Area</div>
                                     <div class="deck-area">Restaurant</div>
                                     <div class="deck-area">Lounge</div>
                                     <div class="deck-area">Fitness</div>
@@ -1924,7 +1941,7 @@
                                 <div class="map-legend">
                                     <div class="legend-item">
                                         <div class="legend-color spa"></div>
-                                        <span>Spa Location (Deck 9 Forward)</span>
+                                        <span>Spa Location (2nd Floor, Wellness Wing)</span>
                                     </div>
                                     <div class="legend-item">
                                         <div class="legend-color other"></div>
@@ -1945,15 +1962,9 @@
         <div class="footer-content">
             <div class="footer-brand">
                 <a href="#home" class="logo">
-                    <div class="logo-icon">
-                        <i class="fas fa-spa"></i>
-                    </div>
-                    <div class="logo-text">
-                        <span class="logo-title">Symphony</span>
-                        <span class="logo-subtitle">Luxury Spa</span>
-                    </div>
+                    <img src="assets/images/logo.png" alt="Symphony Spa" class="logo-img">
                 </a>
-                <p class="footer-description">Premium wellness experiences aboard the world's finest cruise ships. Rejuvenate your body and mind while sailing the oceans in ultimate luxury.</p>
+                <p class="footer-description">Premium wellness experiences in hospitality venues worldwide, in partnership with Meridian. Rejuvenate your body and mind in ultimate luxury.</p>
                 <div class="social-links">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
@@ -1961,6 +1972,7 @@
                     <a href="#"><i class="fab fa-tripadvisor"></i></a>
                     <a href="#"><i class="fab fa-youtube"></i></a>
                 </div>
+                <img src="assets/images/Logo di partnership Meridian e Symphony Spa.png" alt="Meridian x Symphony Spa Partnership" class="partnership-logo">
             </div>
             
             <div class="footer-links">
@@ -1989,7 +2001,7 @@
                 <div class="footer-column">
                     <h4 class="footer-title">Cruise Info</h4>
                     <ul>
-                        <li><a href="#contact">Deck 9 Location</a></li>
+                        <li><a href="#contact">Spa Location</a></li>
                         <li><a href="#contact">Hours of Operation</a></li>
                         <li><a href="#booking">Cabin Booking</a></li>
                         <li><a href="#promotions">Package Deals</a></li>
